@@ -37,16 +37,16 @@
 
 <!-- ABOUT THE PROJECT -->
 ## <u>About The Project</u>
-### <u id="what">The What</u>
+### <u><h3 id="what">The What</h3></u>
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 This website is used to showcase my journey in the tech industry while getting my hands dirty with full-stack web development. Building the site from the ground up has both been a challenging and an exciting journey. In some way, this is a launchpad for me to build other projects I am passionate about, and I'm looking forward to it! 
 
-### <u id="why">The Why</u>
+### <u><h3 id="why">The Why</h3></u>
 
 Beyond merely being a portfolio of my journey, it's my first step to creating a digital presence as a developer and a pentester. This is why a lot of thought went into the designing phase to ensure the identity I was showcasing was accurate and unique. 
 
-### <u id="how">The How</u>
+### <u><h3 id="how">The How</h3></u>
 These are the tools and frameworks I used to design, build, and host the site.
 
 * [Figma](https://www.figma.com/)
