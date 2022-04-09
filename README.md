@@ -12,11 +12,9 @@
 <div align="center" id="top">
   <h1 align="center"><b>PORTFOLIO WEBSITE</b></h1>
   <p align="center">
-    <h2>
-      <a href='#'>View Site</a>
-      <strong>|</strong>
-      <a href="https://github.com/yudhx/portfolio/blob/master/LICENSE.txt">License</a>
-    </h2>
+    <a href='#'>View Site</a>
+    <strong>|</strong>
+    <a href="https://github.com/yudhx/portfolio/blob/master/LICENSE.txt">License</a>
   </p>
 </div>
 
